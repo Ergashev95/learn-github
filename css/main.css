@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+
+.header {
+    background-color: indigo;
+    height: 100vh;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.header-nav {
+    max-width: 1200px;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-logo {
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-list {
+    display: flex;
+    column-gap: 30px;
+}
+.header-link {
+    color: white;
+    font-size: 24px;
+}
+
+.header-link:hover {
+    opacity: .8;
+}
+.header-link:active {
+    opacity: .6;
+}
