@@ -1,1 +1,1 @@
-## Bu loyiha git va gIthubni o'rganish uchun test qilib yukladik
+## Bu loyiha git va githubni o'rganish uchun test qilib yukladik
